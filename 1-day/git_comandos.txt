@@ -1,4 +1,7 @@
 /Documentos/bootcamp/bootcamp_aws$ git config --global user.email "gmail.com"
 /Documentos/bootcamp/bootcamp_aws$ git config --global user.name "???"
 /Documentos/bootcamp/bootcamp_aws$ git init
+
+git clone git@github.com:haroldoabreu/bootcamp_aws.git
+
 #Haroldo Abreu Alves da Silva
